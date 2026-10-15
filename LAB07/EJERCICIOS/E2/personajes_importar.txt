@@ -1,0 +1,3 @@
+Samurai,8,7,6,4
+Curandero,7,3,5,6
+Berserker,10,9,4,2
